@@ -3001,7 +3001,7 @@ If you use this project in academic work, please cite:
 ```bibtex
 @software{vutf2025,
   title = {Thesis Format Verification System},
-  author = {Development Team},
+  author = {RMUTT Computer Engineering Team},
   year = {2025},
   url = {https://github.com/pleumKittipoom/Thesis-Format-Verification-System}
 }
